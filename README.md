@@ -1,5 +1,5 @@
 <div align="left">
-   <h1><b>Olá, vai um café? ☕<b>/h1>
+   <h1><b>Olá, vai um café? ☕<b></h1>
    <p> 
 Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, projetos pessoais e mais coisas que podem ser também muito interessantes. 😁
    </p>
