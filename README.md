@@ -21,13 +21,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
         <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
         <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-        <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+        <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
    </div>
 <br>
 <table width="900px">
    <tr>
       <td valign="top" width="50%">
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=okohii&theme=tokyonight&include_all_commits=true&show_icons=true" />
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" />
       </td>
       <td valign="top" width="30%">
         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=16" />
