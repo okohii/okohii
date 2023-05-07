@@ -1,4 +1,4 @@
-   <h1><b>Olá, vai um café? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698762-2af695c2-434f-44e3-847f-c032db5756bd.gif" width="350px">
+<h1><b>Olá, vai um café? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="350px">
    <p> 
 Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, projetos pessoais e mais coisas que podem ser também muito interessantes. 😁
    </p>
