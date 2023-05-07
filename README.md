@@ -1,7 +1,7 @@
 <div align="left">
-   <h1><b>Olá, vai um café? ☕/h1>
+   <h1><b>Olá, vai um café? ☕<b>/h1>
    <p> 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, projetos pessoais e mais coisas que podem ser também muito interessantes. 😁
    </p>
 </div>
 <br>
@@ -11,7 +11,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    <a href="https://www.linkedin.com/in/gustavo-gil-57a655217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
-*<b>My Programming Skills*<br><br>
+<b>*My Programming Skills*<b><br><br>
    <div>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
