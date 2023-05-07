@@ -40,4 +40,4 @@ Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, 
 <br>
    </details>
    
-   ![Snake animation](https://github.com/CindyKanashiro/CindyKanashiro/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/okohii/okohii/blob/output/github-contribution-grid-snake.svg)
