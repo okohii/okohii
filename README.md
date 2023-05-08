@@ -1,4 +1,4 @@
-<h1><b>Olá, vai um café? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="350px">
+<h1><b>Olá, vai um café? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
    <p> 
 Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, projetos pessoais e mais coisas que podem ser também muito interessantes. 😁
    </p>
@@ -23,7 +23,7 @@ Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, 
         <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
         <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
         <img align="center" alt="DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
-        <img align="center" alt="Git" height="30" width="40" margin-top="500px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+        <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
         
    </div>
 <br>
