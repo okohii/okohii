@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=10"/>
 </p>
 
 ---
@@ -75,6 +75,6 @@
 ---
 
 <p align="center">
-  <samp>“Café é a gasolina que move meu cérebro em direção ao próximo commit.” ☕🚀</samp><br>
+  <samp>“Café é a gasolina que move meu cérebro em direção ao próximo commit." <br> ass: AE86 dos meus sonhos ☕🚀</samp><br>
   <i>Obrigado por visitar! Volte sempre que quiser trocar uma ideia ou acompanhar os dev devaneios.</i> 🤝
 </p>
