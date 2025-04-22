@@ -1,4 +1,5 @@
-<h1><b>Hi, Are you going for a coffee?? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
+<h1><b>
+Hi, do you want a coffee?? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
    <p> 
       Hi, my name is Gustavo, and here is a little bit about my professional life, personal projects and other things that might be interesting. 😁
    </p>
@@ -30,7 +31,7 @@
 <table width="900px">
    <tr>
       <td valign="top" width="50%">
-         <img align="center" style="height=200px" show_owner=true custom_title="My Stats" src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" />
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" />
       </td>
       <td valign="top" width="30%">
         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=16" />
