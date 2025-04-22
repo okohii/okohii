@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/enbiyaemre-hachi-roku-initiald-hachi-roku-gif-13727715662441130967" height="180"/>
+  <img src="[https://tenor.com/pt-BR/view/enbiyaemre-hachi-roku-initiald-hachi-roku-gif-13727715662441130967](https://media1.tenor.com/m/voKkqZVeq9cAAAAd/enbiyaemre-hachi-roku.gif)" height="180"/>
    <br>
   <img src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=10"/>
