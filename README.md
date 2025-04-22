@@ -1,6 +1,6 @@
-<h1><b>Olá, vai um café? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
+<h1><b>Hi, Are you going for a coffee?? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
    <p> 
-Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, projetos pessoais e mais coisas que podem ser também muito interessantes. 😁
+      Hi, my name is Gustavo, and here is a little bit about my professional life, personal projects and other things that might be interesting. 😁
    </p>
 </div>
 <br>
@@ -10,7 +10,7 @@ Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, 
    <a href="https://www.linkedin.com/in/gustavo-gil-57a655217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
-<b>*Minhas Skills*<b><br><br>
+<b>My Skills<b><br><br>
    <div>
         <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,7 +30,7 @@ Olá, meu nome é Gustavo, e aqui está uma palinha da minha vida profissional, 
 <table width="900px">
    <tr>
       <td valign="top" width="50%">
-         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" />
+         <img align="center" style="height=200px" show_owner=true custom_title="My Stats" src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" />
       </td>
       <td valign="top" width="30%">
         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=16" />
