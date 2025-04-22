@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<div class="tenor-gif-embed" data-postid="13727715662441130967" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><img href="https://tenor.com/view/enbiyaemre-hachi-roku-initiald-hachi-roku-gif-13727715662441130967">Enbiyaemre Hachi Roku GIF</img>from <img href="https://tenor.com/search/enbiyaemre-gifs"></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/pt-BR/view/enbiyaemre-hachi-roku-initiald-hachi-roku-gif-13727715662441130967" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=okohii&theme=radical&include_all_commits=true&show_icons=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okohii&hide_progress=false&theme=radical&langs_count=10"/>
 </p>
