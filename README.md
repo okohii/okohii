@@ -1,5 +1,5 @@
 <h1><b>
-Hi, do you want a coffee?? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
+Hi, do you wanna coffee?? ☕<b></h1> <img align="right" src="https://user-images.githubusercontent.com/106363855/236698838-294e3549-9747-4692-b7b4-b6c27870316e.gif" width="300px">
    <p> 
       Hi, my name is Gustavo, and here is a little bit about my professional life, personal projects and other things that might be interesting. 😁
    </p>
