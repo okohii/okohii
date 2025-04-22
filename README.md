@@ -71,3 +71,10 @@
 <p align="center">
   <img src="https://github.com/okohii/okohii/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+<p align="center">
+  <samp>“Café é a gasolina que move meu cérebro em direção ao próximo commit.” ☕🚀</samp><br>
+  <i>Obrigado por visitar! Volte sempre que quiser trocar uma ideia ou acompanhar os dev devaneios.</i> 🤝
+</p>
