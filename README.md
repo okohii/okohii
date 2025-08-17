@@ -76,7 +76,7 @@
 ### 🐍 Commit Snake (porque todo readme tem um desse ai 🐍)
 
 <p align="center">
-  <img src="https://github.com/okohii/okohii/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/okohii/okohii/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
