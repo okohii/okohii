@@ -15,7 +15,7 @@
 
 - 👨‍💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e café.
 - 🧠 Amante de back-end, mas com um pézinho no front (e outro no DevOps 👀).
-- 💼 Atualmente Engenheiro de Software na **INDRA MINSAIT**.
+- 💼 Atualmente Engenheiro de Software na **CBYK** atuando na Tokio Marines.
 - 🎯 Foco em **Java**, **Spring**, **React**, e tecnologias em nuvem (AWS).
 - 🤖 Criador de um robô com personalidade sarcástica em andamento!
 - 🌟 Logo mais novos projetos!
